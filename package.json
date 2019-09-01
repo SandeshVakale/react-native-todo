@@ -9,10 +9,15 @@
   },
   "dependencies": {
     "firebase": "^6.4.2",
+    "native-base": "^2.13.5",
     "react": "16.8.6",
     "react-native": "0.60.5",
+    "react-native-gesture-handler": "^1.4.1",
     "react-native-paper": "^2.16.0",
-    "react-native-vector-icons": "^6.6.0"
+    "react-native-reanimated": "^1.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.0",
+    "react-navigation-stack": "^1.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
